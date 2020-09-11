@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>245</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>20</item></col-widths>
+        <DisasmHistory/>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+    <WATCH_1><expressions><item>sonar_distance</item><item>count0</item><item>Nrf_Buf_In.Data_int</item><item>stabDesired.Mode</item><item>temp</item><item>sonar_end</item><item>sonar_start</item><item>ii</item><item>stabDesired.Throttle</item><item>count0</item><item>actuatorDesired.Throttle</item><item>pui32Data</item><item>sonar_distance</item><item>read</item><item>eeprom_readdate</item><item>actuatorDesired</item><item>sonar_distance[0]</item><item>m1</item><item>m2</item><item>m3</item><item>m4</item><item>tot_x_cm</item><item>tot_y_cm</item><item>sonar_distance[0]</item><item>temp_spi</item><item>move</item><item>x</item><item>y</item><item>UART_FIFO[UART_P_W]</item><item>UART_P_W</item><item>flow_buf</item><item>FLOW_STATE</item><item>x_mm</item><item>y_mm</item><item>autoThrottle</item><item>state</item><item>landed</item><item>flag</item><item>Uart1Data</item><item>Img_Uart_Data[flag]</item><item>ddd</item><item>ks103_distance</item><item>cos_lookup_deg(0.277)</item><item>fused_height</item><item>result_height</item><item>Nrf_Buf_Out.Data_char</item><item/></expressions><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>197</item><item>150</item><item>100</item><item>169</item></col-widths><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>QuickWatch</Factory></Window></Windows></PreferedWindows></WATCH_1><QuickWatch><col-names><item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names><col-widths><item>164</item><item>150</item><item>100</item><item>188</item></col-widths><QWatchHistory><item>Nrf_Buf_Out.Data_char</item><item>Nrf_Buf_Out</item><item>ddd</item><item>Uart1Data</item><item>Img_Uart_Data[flag]</item><item>FLOW_STATE</item><item>UART_FIFO[UART_P_W]</item><item>UART_P_W</item><item>sonar_distance[0]</item><item>actuatorDesired</item><item>Nrf_in_switch[4]</item><item>Nrf_in_switch</item></QWatchHistory><PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>WATCH_1</Factory></Window></Windows></PreferedWindows></QuickWatch><Find-in-Files><ColumnWidth0>473</ColumnWidth0><ColumnWidth1>78</ColumnWidth1><ColumnWidth2>710</ColumnWidth2><ColumnWidth3>315</ColumnWidth3></Find-in-Files></Static>
+    <Windows>
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32151-3144</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>S-X_AERO</ExpandedNode><ExpandedNode>S-X_AERO/App</ExpandedNode><ExpandedNode>S-X_AERO/App/OpenPilot</ExpandedNode><ExpandedNode>S-X_AERO/App/OpenPilot/Math</ExpandedNode><ExpandedNode>S-X_AERO/App/OpenPilot/Param</ExpandedNode><ExpandedNode>S-X_AERO/Board</ExpandedNode><ExpandedNode>S-X_AERO/Chip</ExpandedNode><ExpandedNode>S-X_AERO/Chip/common.c</ExpandedNode><ExpandedNode>S-X_AERO/Lib</ExpandedNode><ExpandedNode>S-X_AERO/Output</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-8618-9677</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-16651-2184</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1><Wnd2><Tabs><Tab><Identity>TabID-30983-14246</Identity><TabName>Quick Watch</TabName><Factory>QuickWatch</Factory></Tab><Tab><Identity>TabID-598-14406</Identity><TabName>Watch 1</TabName><Factory>WATCH_1</Factory></Tab></Tabs><SelectedTab>1</SelectedTab></Wnd2><Wnd5><Tabs><Tab><Identity>TabID-16230-78</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\openpilot\autocontrol.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>358</YPos2><SelStart2>8063</SelStart2><SelEnd2>8063</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\openpilot\imgproc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>480</YPos2><SelStart2>14366</SelStart2><SelEnd2>14366</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\openpilot\Param\eepromqsj.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>27</YPos2><SelStart2>1483</SelStart2><SelEnd2>1483</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Postion_Hold.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>869</XPos2><YPos2>49</YPos2><SelStart2>1526</SelStart2><SelEnd2>1532</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\openpilot\control_command.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>25</YPos2><SelStart2>1147</SelStart2><SelEnd2>1147</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\openpilot\stabilization.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>206</YPos2><SelStart2>9648</SelStart2><SelEnd2>9648</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\openpilot\hold.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>5</YPos2><SelStart2>377</SelStart2><SelEnd2>392</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\board\YRK_NRF24L0.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>85</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>16</YPos2><SelStart2>435</SelStart2><SelEnd2>435</SelEnd2></Tab><ActiveTab>8</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\openpilot\data_transfer.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>60</YPos2><SelStart2>3523</SelStart2><SelEnd2>3523</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\app\IRQ_handler.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>15</YPos2><SelStart2>2101</SelStart2><SelEnd2>2101</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\board\YRK_MPU6050_SOFT.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>83</YPos2><SelStart2>3648</SelStart2><SelEnd2>3648</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\board\YRK_init.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>102</SelStart2><SelEnd2>102</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-06C35768><key>iaridepm.enu1</key></Toolbar-06C35768></Sizes></Row0><Row1><Sizes><Toolbar-16E52070><key>debuggergui.enu1</key></Toolbar-16E52070></Sizes></Row1><Row2><Sizes><Toolbar-16E51C88><key>armjlink.enu1</key></Toolbar-16E51C88></Sizes></Row2></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>685</Bottom><Right>336</Right><x>-2</x><y>-2</y><xscreen>783</xscreen><yscreen>940</yscreen><sizeHorzCX>407813</sizeHorzCX><sizeHorzCY>942828</sizeHorzCY><sizeVertCX>176042</sizeVertCX><sizeVertCY>689067</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>685</Bottom><Right>366</Right><x>-2</x><y>-2</y><xscreen>363</xscreen><yscreen>364</yscreen><sizeHorzCX>189063</sizeHorzCX><sizeHorzCY>365095</sizeHorzCY><sizeVertCX>191667</sizeVertCX><sizeVertCY>689067</sizeVertCY></Rect></Wnd2></Sizes></Row0><Row1><Sizes><Wnd5><Rect><Top>-2</Top><Left>364</Left><Bottom>685</Bottom><Right>645</Right><x>364</x><y>-2</y><xscreen>281</xscreen><yscreen>291</yscreen><sizeHorzCX>146354</sizeHorzCX><sizeHorzCY>291876</sizeHorzCY><sizeVertCX>146354</sizeVertCX><sizeVertCY>689067</sizeVertCY></Rect></Wnd5></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>219</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>221</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>221665</sizeHorzCY><sizeVertCX>407813</sizeVertCX><sizeVertCY>942828</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+
